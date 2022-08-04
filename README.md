@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kapil-Solanke
-- 👀 I’m trying to explore the world of internet , currently trying to learn and experience various fields.
-- 🌱 I’m currently learning DSA, Web Development.
+- 👀 I’m here to explore the world of internet , and trying to learn and experience various technologies.
+- 🌱 I’m \completed my DSA, and now exploring  Web Development.
 - 📫 reach me through mail,github.
-Always feel free talk, I love to make friends.
+Always feel free to talk, I love to make friends. 
 
 <!---
 Kapil-Solanke/Kapil-Solanke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
