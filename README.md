@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kapil-Solanke
 - 👀 I’m here to explore the world of internet , and trying to learn and experience various technologies.
+- 😍 Always ready to help in projects or anyway possible.
 - 🌱 I have completed  DSA, and now aspiring to be a  Web Developer.
 - 📫 reach me through mail,github.
 Always feel free to talk, I love to make friends. 
