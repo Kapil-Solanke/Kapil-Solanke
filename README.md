@@ -1,4 +1,4 @@
-[![Mastercard](https://github.com/Kapil-Solanke/Kapil-Solanke/blob/main/Images/git_1.gif)]
+![Mastercard](https://github.com/Kapil-Solanke/Kapil-Solanke/blob/main/Images/git_1.gif)
 <h1 align="center">Hi 👋, I'm Kapil Solanke</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img alig="right" alt="Coding" width="400" src="https://github.com/Kapil-Solanke/Kapil-Solanke/blob/main/Images/programmer.gif">
