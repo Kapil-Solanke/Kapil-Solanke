@@ -34,6 +34,11 @@
 
 ## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=kapil-solanke&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Kapil' Github Stats](https://github-readme-stats.vercel.app/api?username=kapil-solanke&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapil-solanke&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<!-- ## 🖥 &nbsp;Past work
+
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapil-solanke&repo=Web-Dev&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Kapil-Solanke/Web-Dev)
+     -->
