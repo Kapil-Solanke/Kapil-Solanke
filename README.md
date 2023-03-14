@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Kapil-Solanke/Kapil-Solanke/blob/main/Images/programmer.gif">
 
-- 🔭 I’m currently working on **Razorpay Clone**
+- 🔭 I’m currently working on **Weather App**
 
 - 🌱 I’m currently learning **React,MongoDB**
 
