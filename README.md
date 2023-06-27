@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **EdTech Webiste**
 
-- 🌱 I’m currently learning **MongoDB, Express**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
-- 💬 Ask me about **html,css,c++**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **kapisolanke7263@gmail.com**
 
