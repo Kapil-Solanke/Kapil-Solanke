@@ -3,17 +3,16 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Kapil-Solanke/Kapil-Solanke/blob/main/Images/programmer.gif">
 
-- 🔭 I’m currently working on **EdTech Webiste**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Frontend , Backend Development. Programming **
 
 - 📫 How to reach me **kapisolanke7263@gmail.com**
 
-- ⚡ Fun fact **I never knew about programming a year ago, but now aspiring to be multi-skilled developer**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-solanke&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-solanke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil-solanke" alt="kapil-solanke" /></a> </p>
